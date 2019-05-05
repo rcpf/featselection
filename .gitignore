@@ -24,6 +24,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.pypiric
 MANIFEST
 
 # PyInstaller
@@ -130,4 +131,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
